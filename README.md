@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thielander
-- 🌱 I’m currently learning PHP & Javascript
+- 🌱  I am a PHP developer and am currently learning Javascript
 
 
 <!---
